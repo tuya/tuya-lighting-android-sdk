@@ -1,6 +1,6 @@
 # tuyasmart-lighting-android-sdk
 
-### **[English]([README.md](http://readme.md/)) | [中文版]([README_cn.md](http://readme_cn.md/))**
+### **[English]([README.md](https://github.com/tuya/tuyasmart-lighting-android-sdk/edit/master/README.md)) | [中文版]([README_cn.md](https://github.com/tuya/tuyasmart-lighting-android-sdk/blob/master/README_cn.md))**
 
 The lighting equipment is more complicated, and there are both v1 and v2 new and old firmware. Even if standard commands are used, two sets of control logic need to be developed.
 
