@@ -1,6 +1,6 @@
 ## 涂鸦智能照明控制Android SDK文档
 
-### **[English]([README.md](http://readme.md/)) | [中文版]([README_cn.md](http://readme_cn.md/))**
+### **[English]([README.md](https://github.com/tuya/tuyasmart-lighting-android-sdk/blob/master/README.md)) | [中文版]([README_cn.md](https://github.com/tuya/tuyasmart-lighting-android-sdk/blob/master/README_cn.md))**
 
 照明设备较为复杂，同时存在v1和v2新旧两种固件，即使使用了标准指令，也需要开发两套控制逻辑。
 
