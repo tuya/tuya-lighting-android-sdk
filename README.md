@@ -1,1 +1,1 @@
-# https-github.com-tuya-tuyasmart-lighting-android-sdk
+# tuyasmart-lighting-android-sdk
