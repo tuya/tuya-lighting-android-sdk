@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light_module_title">照明管理</string>
+    <string name="light_new_home">新照明</string>
+
+    <string name="light_device_id">照明设备ID</string>
+    <string name="light_init">照明设备初始化</string>
+    <string name="light_switch">照明开关</string>
+    <string name="light_mode_switch">模式切换</string>
+    <string name="white_light_mode">白光模式</string>
+    <string name="colour_light_mode">彩光模式</string>
+    <string name="scene_light_mode">情景模式</string>
+    <string name="scene_light_switch">情景切换</string>
+    <string name="scene_good_night">晚安情景</string>
+    <string name="scene_work">工作情景</string>
+    <string name="scene_reading">阅读情景</string>
+    <string name="scene_casual">休闲情景</string>
+    <string name="light_brightness">亮度</string>
+    <string name="light_temperature">色温</string>
+    <string name="light_h">H值</string>
+    <string name="light_s">S值</string>
+    <string name="light_v">V值</string>
+</resources>

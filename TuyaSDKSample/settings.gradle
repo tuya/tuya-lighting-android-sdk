@@ -1,0 +1,8 @@
+include ':light'
+include ':base_res'
+include ':device_management'
+include ':device_config'
+include ':app'
+include ':home'
+
+rootProject.name = "TuyaSDKSample"

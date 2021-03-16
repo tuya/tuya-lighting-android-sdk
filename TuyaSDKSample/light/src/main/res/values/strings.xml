@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light_module_title">LIGHT MANAGEMENT</string>
+    <string name="light_new_home">New Light</string>
+
+    <string name="light_device_id">light deivce id</string>
+    <string name="light_init">light init</string>
+    <string name="light_switch">light switch</string>
+    <string name="light_mode_switch">Mode switch</string>
+    <string name="white_light_mode">White light mode</string>
+    <string name="colour_light_mode">colour mode</string>
+    <string name="scene_light_mode">Scene mode</string>
+    <string name="scene_light_switch">scene switch</string>
+    <string name="scene_good_night">Good night scene</string>
+    <string name="scene_work">Work situation</string>
+    <string name="scene_reading">Reading situation</string>
+    <string name="scene_casual">Casual scene</string>
+    <string name="light_brightness">brightness</string>
+    <string name="light_temperature">color temperature</string>
+    <string name="light_h">H</string>
+    <string name="light_s">S</string>
+    <string name="light_v">V</string>
+</resources>
