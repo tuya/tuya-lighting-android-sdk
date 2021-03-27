@@ -1,4 +1,4 @@
-# tuyasmart-lighting-android-sdk
+# tuya-lighting-android-sdk
 
 ### **[English](README.md) | [中文版](README_cn.md)**
 
